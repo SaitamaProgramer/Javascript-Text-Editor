@@ -1,6 +1,6 @@
 # Javascript Text Editor
 
-![Project Preview](./text-editor.jpg)
+![Javascript Text Editor](text-editor.jpg)
 
 ## Descripción
 
